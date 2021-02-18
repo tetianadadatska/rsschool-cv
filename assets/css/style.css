@@ -85,7 +85,7 @@
         height: 1800px;
         flex-direction: column-reverse;
         margin-top: 850px;
-        margin-left: 460px;
+        margin-left: 500px;
     }
 
     h3 {
@@ -109,6 +109,7 @@
         line-height: 40px;
         letter-spacing: 0.1em;
         color: #2f2b2d;
+        padding-right: 110px;
     }
 
     .education {
@@ -147,7 +148,7 @@
     .languages {
         flex-direction: column-reverse;
         position: absolute;
-        margin-top: 1350px;
+        margin-top: 1580px;
         margin-left: 20px;
     }
 
@@ -158,4 +159,11 @@
         font-size: 30px;
         line-height: 80px;
         letter-spacing: 0.1em;
+    }
+
+    .skills {
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 1350px;
+        margin-left: 20px;
     }
