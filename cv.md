@@ -47,7 +47,7 @@ ______
    
    *- Ukrainian;*
    
-   *- English;* 
+   *- English - B1 INTERMEDIATE;* 
    
    *- Russian.*
    
