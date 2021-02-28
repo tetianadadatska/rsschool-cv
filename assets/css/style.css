@@ -7,7 +7,7 @@
         padding-right: 20px;
         padding-left: 20px;
         width: 1600px;
-        height: 2720px;
+        height: 3000px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -15,7 +15,7 @@
     .main {
         position: relative;
         width: 1800px;
-        height: 2800px;
+        height: 3000px;
         background-color: rgba(146, 146, 5, 0.94);;
         margin-left: auto;
         margin-right: auto;
@@ -53,30 +53,37 @@
         text-shadow: 5px 5px 0 #210113;
     }
 
-    .contacts {
+    .contacts_block {
         position: absolute;
         flex-direction: column-reverse;
         align-items: center;
         width: 420px;
-        height: 1900px;
-        padding-top: 900px;
+        height: 2650px;
+        padding-top: 350px;
         background-color: rgba(17, 16, 16, 0.15);
     }
 
-    .contacts h2 {
+     .contacts {
         font-family: 'Franklin Gothic Medium', sans-serif;
-        font-size: 30px;
+        font-size: 35px;
         line-height: 50px;
+        letter-spacing: 2px;
         text-align: center;
-        color: #2f2b2d;
+        color: rgba(238, 233, 233, 0.79);
     }
 
-    .contacts p {
+    .contacts_information li {
         font-family: 'Franklin Gothic Medium', sans-serif;
-        font-size: 25px;
-        line-height: 30px;
-        text-align: center;
-        color: #2f2b2d;
+        font-size: 20px;
+        line-height: 50px;
+        text-align: left;
+        color: rgba(238, 231, 234, 0.86);
+    }
+
+    .email {
+        text-decoration: none;
+        color: rgba(238, 231, 234, 0.86);
+        font-size: 23px;
     }
 
     .main_information {
