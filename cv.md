@@ -5,6 +5,8 @@ ______
   
    e-mail:**tatyanadadatska@gmail.com**
    
+   Github: **tetianadadatska**
+   
    
    **Education:** (*Complete higher education*) - Ivano-Frankivsk National Technical University of Oil and Gas (Ukraine).
    
