@@ -85,6 +85,10 @@
         color: rgba(238, 231, 234, 0.86);
         font-size: 23px;
     }
+    .gitnub {
+        text-decoration: none;
+        color: rgba(238, 231, 234, 0.86);
+    }
 
     .main_information {
         position: absolute;
