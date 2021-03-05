@@ -1,0 +1,181 @@
+
+    body {
+        background: #e8e2e6;
+    }
+
+    .wraper {
+        padding-right: 20px;
+        padding-left: 20px;
+        width: 1600px;
+        height: 3000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .main {
+        position: relative;
+        width: 1800px;
+        height: 3000px;
+        background-color: rgba(146, 146, 5, 0.94);;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .header {
+        position:absolute;
+        width: 1800px;
+        background-color: #2f2b2d;
+        height: 700px;
+        margin: auto;
+        top: 12%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .header img {
+        width: 430px;
+        height: 580px;
+        padding-top: 2px;
+        position: absolute;
+        border-radius: 10%;
+        margin-left: 1100px;
+    }
+
+    h1 {
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 80px;
+        line-height: 75px;
+        color: rgba(249, 248, 252, 0.9);
+        letter-spacing: 0.1em;
+        text-decoration: none;
+        padding-top: 75px;
+        padding-left: 140px;
+        text-shadow: 5px 5px 0 #210113;
+    }
+
+    .contacts_block {
+        position: absolute;
+        flex-direction: column-reverse;
+        align-items: center;
+        width: 420px;
+        height: 2650px;
+        padding-top: 350px;
+        background-color: rgba(17, 16, 16, 0.15);
+    }
+
+     .contacts {
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 35px;
+        line-height: 50px;
+        letter-spacing: 2px;
+        text-align: center;
+        color: rgba(238, 233, 233, 0.79);
+    }
+
+    .contacts_information li {
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 20px;
+        line-height: 50px;
+        text-align: left;
+        color: rgba(238, 231, 234, 0.86);
+    }
+
+    .email {
+        text-decoration: none;
+        color: rgba(238, 231, 234, 0.86);
+        font-size: 23px;
+    }
+    .gitnub {
+        text-decoration: none;
+        color: rgba(238, 231, 234, 0.86);
+    }
+
+    .main_information {
+        position: absolute;
+        width: 1150px;
+        height: 1800px;
+        flex-direction: column-reverse;
+        margin-top: 850px;
+        margin-left: 500px;
+    }
+
+    h3 {
+        flex-direction: column-reverse;
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 30px;
+        line-height: 65px;
+        text-align: center;
+        background-color: #2f2b2d;
+        color: rgba(249, 248, 252, 0.9);
+        letter-spacing: 0.1em;
+        text-shadow: 5px 5px 0 #210113;
+        width: 1000px;
+        height: 60px;
+    }
+
+    .main_information p {
+        text-align: left;
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: 0.1em;
+        color: #2f2b2d;
+        padding-right: 110px;
+    }
+
+    .education {
+        text-align: left;
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 45px;
+        margin-left: 20px;
+    }
+
+    .advantages {
+        text-align: left;
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 330px;
+        margin-left: 20px;
+    }
+
+    .advantages, ul li {
+        text-align: left;
+        flex-direction: column-reverse;
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: 0.1em;
+        color: #2f2b2d;
+    }
+
+    .experience {
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 1150px;
+        margin-left: 20px;
+    }
+
+    .languages {
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 1580px;
+        margin-left: 20px;
+    }
+
+    .languages, ul li {
+        text-align: left;
+        flex-direction: column-reverse;
+        font-family: 'Franklin Gothic Medium', sans-serif;
+        font-size: 30px;
+        line-height: 80px;
+        letter-spacing: 0.1em;
+        max-width: 1000px;
+    }
+
+    .skills {
+        flex-direction: column-reverse;
+        position: absolute;
+        margin-top: 1350px;
+        margin-left: 20px;
+    }
