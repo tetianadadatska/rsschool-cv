@@ -49,7 +49,7 @@ ______
    
    *- Ukrainian;*
    
-   *- English - B1 INTERMEDIATE;* 
+   *- English - A2 Pre Intermediate;* 
    
    *- Russian.*
    
